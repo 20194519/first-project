@@ -1,0 +1,17 @@
+2021-12-10 09:29:09,985 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-10 09:29:26,130 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-12-10 10:34:37,421 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-10 10:34:49,625 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-10 13:44:44,064 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-10 13:45:05,968 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-17 17:06:49,832 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-17 17:07:10,898 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-17 23:22:33,835 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-17 23:22:45,672 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-18 11:05:17,350 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-18 11:05:39,126 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-18 14:45:57,265 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-18 14:46:12,016 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-18 15:58:57,442 [main] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2021-12-18 15:59:11,685 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-05 18:15:49,200 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
